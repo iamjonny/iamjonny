@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iamjonny
-- 👀 I’m interested in data manipulation and management, automation, and good design.
-- 🌱 I’m ~currently~ always learning 
+- 👀 I’m interested in data manipulation and management, automation, and ~~good~~ **great** design.
+- 🌱 I’m ~~currently~~ always learning 
 - 💞️ I’m not currently looking to collaborate 
 - 📫 How to reach me ... tbc 🙂
 
